@@ -1,0 +1,109 @@
+ardilla - squirrel
+cabra - goat
+camello - camel (drug dealer)
+cerdo - pig (not puerco or cochino)
+puerco - pig (not cerdo or cochino)
+cochino - pig (not cerdo or puerco)
+conejo - rabbit
+cordero - lamb
+coyote - coyote (human smuggler)
+gusano - worm (not lombriz)
+lombriz - worm (not gusano)
+lobo - wolf
+mapache - raccoon
+mofeta - skunk (not zorrillo)
+zorrillo - skunk (not mofeta)
+mono - monkey
+mula - donkey (not burro or asno)
+burro - donkey (not mula or asno)
+asno - donkey (not mula or burro)
+murciélago - bat
+oso - bear
+oveja - sheep
+rana - frog
+serpiente - snake
+ternero - calf
+tortuga - turtle
+víbora - viper, poisonous snake
+zorro - fox
+cachorro - pup
+caza furtiva - poaching
+corral - pen, barnyard
+en peligro de extinción - endangered
+especie - species
+ganado - livestock
+hembra - female
+jaula - cage
+macho - male
+mamífero - mammal
+mascota - pet
+matadero - slaughterhouse
+pata - paw
+piel - fur, skin
+rebaño - herd (livestock)
+salvaje - wild
+cazar - to hunt
+estar en celo - to be in heat
+extinguirse - to become extinct
+ladrar - to bark
+maullar - to meow
+morder (o-ue) - to bite
+ordeñar - to milk
+hay gato encerrado - there is something fishy
+estar como una cabra - to be crazy
+atún - tuna
+ballena - whale
+calamar - squid
+camarón (LA) - shrimp (not gamba (Esp))
+gamba (Esp) - shrimp (not camarón (LA))
+caracol - snail
+langosta - lobster
+marisco - shellfish
+pulpo - octopus
+sirena - mermaid
+tiburón - shark
+vieira - scallop
+ancla - anchor
+balsa - raft
+concha - shell (not caracola)
+caracola - shell (not concha)
+ola - wave
+pez - fish (alive)
+pescado - fish (caught)
+red - net
+remo - oar
+viento en popa - full speed ahead
+abeja - bee
+araña - spider, chandelier
+bicho - bug, vermin
+hormiga - ant
+mariposa - butterfly
+mariquita - ladybug
+mosca - fly
+piojos - lice
+matamoscas - fly swatter
+mosquitero - screen
+picadura - bite, prick, sting
+telaraña - spiderweb
+venenoso - poisonous
+picar - to sting, to bite
+rascarse - to scratch
+águila - eagle
+búho - owl (not lechuza)
+lechuza - owl (not búho)
+cigüeña - stork
+gallina - hen
+gallo - rooster
+gaviota - seagull
+paloma - dove, pigeon
+papagayo - parrot (not loro)
+loro - parrot (not papagayo)
+pato - duck
+ala - wing
+ave - bird (not pájaro)
+pájaro - bird (not ave)
+espantapájaros - scarecrow
+nido - nest
+agua dulce - fresh water
+agua salada - salt water
+escamas - fish scales

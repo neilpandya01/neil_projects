@@ -1,0 +1,98 @@
+﻿alfombra - rug
+almohada - pillow
+ropero, armario - closet
+ascensor, elevador - elevator
+aspiradora - vacuum cleaner
+ático - penthouse
+azotea - flat roof
+azulejo - tile
+balcón - balcony
+bañera, tina - bathtub (not tina)
+bombilla - bulb
+buhardilla, altillo - attic
+butaca, sillón - armchair
+cajón, gaveta - drawer
+calefacción - heating
+césped - lawn
+cesto, canasta - basket
+chalé - sing. fam. house w/ yard
+chimenea - fireplace, chimney
+cojín, almohadón - cushion
+colcha - bedspread
+colchón - mattress
+cortina - curtain
+cristal - pane of glass
+cubo, balde - bucket, pail
+cuna - cradle
+delantal - apron
+detergente - detergent
+electrodoméstico - household appliance
+encimera - countertop
+enchufe - outlet, plug
+escalera - staircase, ladder
+escoba - broom
+escritorio - desk
+estante - shelf
+estantería - bookcase
+fachada - facade, front
+felpudo - doormat
+fregadero - kitchen sink
+fregona - mop
+funda - pillow case
+grifo, llave - faucet
+jabón - soap
+jardín - yard, garden
+lavabo, lavamanos - bathroom sink
+lavadora - washer
+manta - blanket
+mecedora - rocking chair
+mueble - furniture
+pared - wall
+parqué - parquet floor
+pasillo - hall
+percha, colgador - hanger
+persiana - blinds
+plancha - iron
+polvo - dust
+pomo, picaporte - doorknob
+rincón - corner (indoor)
+sábana - sheet
+sala de estar - living room
+secadora - dryer
+sótano - basement
+techo, tejado - roof
+timbre - doorbell
+toalla - towel
+toldo - awning
+trapo - rag
+trastero - junk storage area
+umbral - threshold
+ventilador - fan
+vestíbulo - lobby, foyer
+alcoba, cuarto, dormitorio, habitación, recámara - bedroom
+domicilio - home address
+hipoteca - mortgage
+inmobiliario - real estate
+lujo - luxury
+lujoso - luxurious
+vivienda - housing
+apagar - to turn off
+barrer - to sweep
+encender - to turn on
+fregar - to scrub or mop
+pasar la aspiradora - to vacuum
+sacudir - to dust
+aire acondicionado - air conditioning
+retrete, inodoro - toilet
+bidé - bidet
+papel higiénico - toilet paper
+inquilino - tenant
+baldosa - floor tile
+foco - spotlight
+peldaño, escalón - stair, step
+interruptor - switch (electric)
+piso, planta, suelo - floor level
+microondas - microwave oven
+despacho - office
+funcionar - to work (machine), to function
+cocina - stove, kitchen
