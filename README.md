@@ -1,54 +1,26 @@
-# 💻 Neil's Programming Portfolio
+# 💻 Neil Pandya's Programming Portfolio
 
-![Banner](https://via.placeholder.com/1000x200?text=Neil's+Programming+Skills)  
-*(Add a cool banner or custom graphic)*
-
-## 👋 About Me
-Hi, I'm **Neil**, a passionate **Data Scientist** and **Physicist**!  
-I specialize in building meaningful insights through **machine learning**, **data analysis**, and **creative problem-solving**.
-
-- 🔭 I'm currently working on **predictive models** for poverty analysis.  
-- 🎯 I love exploring **C programming**, **Python**, and **mathematical modeling**.
+## 👋 Welcome
+Hi, I'm **Neil**, a 2nd year student at **UChicago** studying Data Science, Computer Science, and Physics!
+Attached you'll find samples of my work across **Computer Science** (programming & fun projects), and **Data Science/Analytics** (Machine Learning-based algorithms & predictive modeling). 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Programming Skills & Tools
 
-### **Programming Languages**
-- **Python**: Expert (Data Analysis, Machine Learning, Pandas, Numpy)  
-- **C**: Proficient (Multithreading, Memory Management)  
-- **SQL**: Intermediate  
+### **Languages**
+- Java, C, R, SQL, Python
 
-### **Libraries & Frameworks**
-- **scikit-learn**: Lasso Regression, Logistic Regression  
-- **Matplotlib/Seaborn**: Data Visualization  
-- **TensorFlow**: Basics of Neural Networks  
+### **Python Libraries & Frameworks**
+- NumPy, pandas, scikit-learn, Matplotlib
 
-### **Development Tools**
-- **Visual Studio Code**  
-- **Jupyter Notebook**  
-- **Git/GitHub**  
+### **Tools & Technologies**
+- pytest, git, GitHub, Linux command-line
 
----
-
-## 🚀 Featured Projects
-
-### [1. Poverty Prediction Model](https://github.com/Neil/predictive-poverty-model)  
-*Built a machine learning pipeline using Lasso Regression to predict poverty headcount ratios.*
-
-- **Tech Stack**: Python, scikit-learn, Pandas  
-- **Highlights**: Achieved an adjusted R² score of **0.85** on test data.  
-
----
-
-### [2. Multi-threaded Image Processing in C](https://github.com/Neil/multithreaded-image-processing)  
-*Converted color images to grayscale using parallel processing in C.*
-
-- **Tech Stack**: C, pthreads  
-- **Highlights**: Processed images **3x faster** using multithreading.  
-
----
-
-## 🌟 Fun Facts About Me
-- I enjoy combining **physics and programming** to solve real-world problems.  
-- I'm also a **dance enthusiast**, and I love integrating creativity into tec
+### **Relevant and Anticipated Coursework**
+- Introduction to Data Science I/II (Winter-Spring 2024)
+- Introduction to Data Engineering (Spring 2025)
+- Introduction to Computer Science I/II (Winter 2024)
+- Systems Programming I (Spring 2024)
+- Mathematical Methods for Data Science I/II (Autumn 2024 - Winter 2025)
+- Mathematical Models in Data Science (Spring 2025)
