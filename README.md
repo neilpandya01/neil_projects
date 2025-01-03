@@ -2,7 +2,7 @@
 
 ## 👋 Welcome
 Hi, I'm **Neil**, a 2nd year student at **UChicago** studying Data Science, Computer Science, and Physics!
-Attached you'll find samples of my work across **Computer Science** (programming & fun projects), and **Data Science/Analytics** (Machine Learning-based algorithms & predictive modeling). 
+Attached you'll find samples of my work across **Computer Science** (programming & fun projects), and **Data Science/Analytics** (Machine Learning-based algorithms. regressions, & predictive modeling). 
 
 ---
 
