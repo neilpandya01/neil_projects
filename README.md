@@ -2,7 +2,7 @@
 
 ## 👋 Welcome
 Hi, I'm **Neil**, a 2nd year student at **UChicago** studying Data Science, Computer Science, and Physics!
-Attached you'll find samples of my work across **Computer Science** (programming & fun projects), and **Data Science/Analytics** (Machine Learning-based algorithms. regressions, & predictive modeling). 
+Attached you'll find samples of my work across **Computer Science** (programming & fun projects), and **Data Science/Analytics** (Machine Learning-based algorithms, regressions, & predictive modeling). 
 
 ---
 
@@ -12,12 +12,12 @@ Attached you'll find samples of my work across **Computer Science** (programming
 - Java, C, R, SQL, Python
 
 ### **Python Libraries & Frameworks**
-- NumPy, pandas, scikit-learn, Matplotlib
+- PyTorch, scikit-learn, BeautifulSoup, LangChain/LangGraph, FastAPI, NumPy, pandas, Matplotlib
 
-### **Tools & Technologies**
-- pytest, git, GitHub, Linux command-line
+### **Tools & Databases**
+- MongoDB, AWS Lambda, Jupyter Notebook, Git/GitHub, Linux
 
-### **Relevant and Anticipated Coursework**
+### **Relevant Coursework**
 - Introduction to Data Science I/II (Winter-Spring 2024)
 - Introduction to Data Engineering (Spring 2025)
 - Introduction to Computer Science I/II (Winter 2024)
