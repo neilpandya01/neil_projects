@@ -19,7 +19,9 @@ Attached you'll find samples of my work across **Computer Science** (programming
 
 ### **Relevant Coursework**
 - Introduction to Data Science I/II (Winter-Spring 2024)
-- Introduction to Data Engineering (Spring 2025)
+- Machine Learning Fundamentals: Theory & Practice (Spring 2025)
+- Introduction to Data Engineering (Autumn 2025)
+- Data Visualization (Autumn 2025)
 - Introduction to Computer Science I/II (Winter 2024)
 - Systems Programming I (Spring 2024)
 - Mathematical Methods for Data Science I/II (Autumn 2024 - Winter 2025)
